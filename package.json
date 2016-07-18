@@ -1,0 +1,24 @@
+{
+    "author": "erik.pitzer@gmail.com",
+    "dependencies": {},
+    "keywords": [],
+    "name": "binary",
+    "pebble": {
+        "capabilities": [
+            ""
+        ],
+        "displayName": "binary",
+        "enableMultiJS": true,
+        "messageKeys": [],
+        "projectType": "native",
+        "resources": {
+            "media": []
+        },
+        "sdkVersion": "3",
+        "uuid": "3e1b8038-478f-4e6e-9ec2-d690c6a44b8b",
+        "watchapp": {
+            "watchface": false
+        }
+    },
+    "version": "1.0.0"
+}
